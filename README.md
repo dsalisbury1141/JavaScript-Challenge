@@ -10,7 +10,7 @@
 
 I chose to complete UFO-Level-1 and I hope to get to the UFO-Lavel-2 I did not feel I was able to complete this extra bonus because I needed to attend and rework the web scraping assignment that did not make a desirable grade.  We must sacrifice but in the end we all win.
 
-I really liked this assignment it took me some time to get the button and get a reasonable understanding of how events and buttons actually work.. 
+I really liked this assignment it took me some time to get the button and get a reasonable understanding of how events and buttons actually work. I really tried to get the search to filter on the "sumit" but was unsucessful.  I was excited to see the button work as expected for the standard date search. 
 
 # We cannot be the only life out there.... or are we???
 Recently the government has release fairly recent unidentified objects that have been the gossip of the nation for so long, way back since area 51 to this very moment. We will probably never know the real truth but it is fun explore the possibilities.
