@@ -39,13 +39,13 @@ body {
 }
 
 .navbar {
-  padding: 5px;
+  padding: 25px;
   margin: 0;
 }
 
 /* This CSS styles the ufo icon in the navbar */
 .nav-ufo {
-  position: absolute;
+
   bottom: 5px;
   left: 150px;
   width: 35px;
@@ -223,3 +223,4 @@ select {
     opacity: 1;
   }
 }
+
