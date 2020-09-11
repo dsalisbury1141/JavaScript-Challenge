@@ -19,6 +19,8 @@ Recently the government has release fairly recent unidentified objects that have
 
 Way back on November 16, 1977 the movie Close Encounters of the Third Kind was released, the ratings skyrocketed, if you haven't see the movie please entertain yourself get some popcorn and take a trip to the past. This movie hosted so many very young famous actors that began their career in those days. 
 
-This is a classic image from the movie, borrowed all imaged from google free library
+This is a classic image from the movie. 
 
 <img src="https://github.com/dsalisbury1141/JavaScript-Challenge/blob/master/static/images/close-encounters.jpg" width="400">
+
+All images were borrowed from google free library.
