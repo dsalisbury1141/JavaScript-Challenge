@@ -8,7 +8,7 @@
 
 <img src="https://github.com/dsalisbury1141/JavaScript-Challenge/blob/master/static/images/space_ship.jpg" width="400">
 
-I chose to complete UFO-Level-1 and I hope to get to the UFO-Lavel-2 because I did not feel I was able to complete this extra bonus but I needed to attend and rework the web scraping assignment that did not make a desirable grade.  We must sacrifice but in the end we all win.
+I chose to complete UFO-Level-1 and I hope to get to the UFO-Lavel-2 I did not feel I was able to complete this extra bonus because I needed to attend and rework the web scraping assignment that did not make a desirable grade.  We must sacrifice but in the end we all win.
 
 I really liked this assignment it took me some time to get the button and get a reasonable understanding of how events and buttons actually work.. 
 
