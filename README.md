@@ -1,5 +1,4 @@
-# 14 - JavaScript-Challenge
-## by Dawn Salisbury
+# 14 - UFO Sightings
 
 *Please follow this link to my UFO Sighting page https://dsalisbury1141.github.io/JavaScript-Challenge/*
 
