@@ -21,6 +21,7 @@ This is a classic image from the movie.
 All images were borrowed from google free library.
 
 
-How to run my code: 
-1. Open link above to run deployed site
-2. Download my repositoy and run Index page on local host
+How to run my code:
+	1. Open link above to run deployed site
+	2. Download my repository and run Index page on local host
+
