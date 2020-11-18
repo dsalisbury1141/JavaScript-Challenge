@@ -19,3 +19,8 @@ This is a classic image from the movie.
 <img src="https://github.com/dsalisbury1141/JavaScript-Challenge/blob/master/static/images/close-encounters.jpg" width="400">
 
 All images were borrowed from google free library.
+
+
+How to run my code: 
+1. Open link above to run deployed site
+2. Download my repositoy and run Index page on local host
